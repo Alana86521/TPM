@@ -76,7 +76,7 @@ On startup the program will:
 - Send a "Started TPM" embed to your configured Discord webhook.
 - Keep a terminal prompt open so you can send commands (e.g. `/stats`, `/ping`, etc.) to the running bots.
 
-Most actual control flows through the TPM Discord integration and CoflNet; this repo just implements the local client that those services drive.
+Most actual control flows through the TPM Discord integration and CoflNet, this repo just implements the local client that those services drive.
 
 ---
 
